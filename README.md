@@ -10,8 +10,8 @@ Backend Developer
 src="https://img.shields.io/github/followers/Phanurat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-Web Server
-  ![Nginx Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/200px-Nginx_logo.svg.png)
+
+![Nginx Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/200px-Nginx_logo.svg.png)
 
 
 
