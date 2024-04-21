@@ -27,35 +27,31 @@ src="https://img.shields.io/github/followers/Phanurat?logo=github&style=for-the-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://open.spotify.com/embed/track/5X3HN2ZNAcnwriB48pW5mw?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
 <p align="center">
-  <a href="https://github.com/Rez4-4"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rez4-4&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/Rez4-4"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phanurat&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
-  <a href="https://github.com/Rez4-4"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rez4-4&theme=tokyonight"/>
+  <a href="https://github.com/Rez4-4"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phanurat&theme=tokyonight"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/instagram.com.reza.205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com.reza.205" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@rezdv4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rezdv4" height="30" width="40" /></a>
+</a>
+<a href="https://www.youtube.com/c/https://youtube.com/Phanurat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rezdv4" height="30" width="40" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rez4-4"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/>
+  <a href="https://github.com/Rez4-4"><img src="https://count.getloli.com/get/@:Phanurat?theme=rule34" width="50%"/>
 </p>
 
-  <p align="center">
-  <img src='https://counter.seku.su/cmoe?name=Kimiko-chann&theme=r34' width="400px">
-
-
+ 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rez4-4&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Phanurat&theme=juicyfresh" /><a>
 </p>
 
 ## ```Status```
-<p align="center"><a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api?username=Phanurat&show_icons=true&theme=radical"></a></p>
 
-<p align="center"><a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rez4-4&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanurat&theme=radical&layout=compact"></a></p> 
 
 
