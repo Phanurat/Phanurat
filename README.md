@@ -33,17 +33,6 @@ src="https://img.shields.io/github/followers/Phanurat?logo=github&style=for-the-
 </p>
 
   <a href="https://github.com/Rez4-4"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phanurat&theme=tokyonight"/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</a>
-<a href="https://www.youtube.com/c/https://youtube.com/Phanurat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rezdv4" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Rez4-4"><img src="https://count.getloli.com/get/@:Phanurat?theme=rule34" width="50%"/>
-</p>
-
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Phanurat&theme=juicyfresh" /><a>
