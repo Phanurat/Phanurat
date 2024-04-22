@@ -29,18 +29,18 @@ src="https://img.shields.io/github/followers/Phanurat?logo=github&style=for-the-
 <p align="center">
 
 <p align="center">
-  <a href="https://github.com/Rez4-4"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phanurat&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/Phanurat"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phanurat&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
-  <a href="https://github.com/Rez4-4"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phanurat&theme=tokyonight"/>
+  <a href="https://github.com/Phanurat"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phanurat&theme=tokyonight"/>
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Phanurat&theme=juicyfresh" /><a>
 </p>
 
 ## ```Status```
-<p align="center"><a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api?username=Phanurat&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Phanurat"><img src="https://github-readme-stats.vercel.app/api?username=Phanurat&show_icons=true&theme=radical"></a></p>
 
-<p align="center"><a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanurat&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Phanurat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanurat&theme=radical&layout=compact"></a></p> 
 
 
