@@ -8,6 +8,7 @@ Backend Developer
 
 <a href="https://www.github.com/Phanurat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Phanurat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=Phanurat)
 
 ### Skills
 
