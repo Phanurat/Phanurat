@@ -24,24 +24,3 @@ src="https://img.shields.io/github/followers/Phanurat?logo=github&style=for-the-
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/phanurat.jakkranukoolkit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Phanurat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<p align="center">
-  <a href="https://github.com/Phanurat"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phanurat&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
-
-  <a href="https://github.com/Phanurat"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phanurat&theme=tokyonight"/>
- 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Phanurat&theme=juicyfresh" /><a>
-</p>
-
-## ```Status```
-<p align="center"><a href="https://github.com/Phanurat"><img src="https://github-readme-stats.vercel.app/api?username=Phanurat&show_icons=true&theme=radical"></a></p>
-
-<p align="center"><a href="https://github.com/Phanurat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanurat&theme=radical&layout=compact"></a></p> 
-
-
